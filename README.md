@@ -1,6 +1,5 @@
 # streamer6
 Streamer software version 6 - frontend and backend for a simple Raspberry Pi music network streamer controller.
-Streamer software version 6 - frontend and backend for a simple Raspberry Pi music network streaming controller.
 
 This is a more scaled down version of the software that was used for the network music streamers custom built by the now defunct Retro Audiophile Designs. 
 
