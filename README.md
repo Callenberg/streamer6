@@ -35,3 +35,7 @@ Express https://expressjs.com/
 Usage
 ====
 This is only a plain software depository. There is no package to install. The best usage is probably to look at the source code and see if something interests you and then maybe the code can inspire you.
+
+License
+-------
+GNU General Public License v3.0 or later.
